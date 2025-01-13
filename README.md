@@ -27,7 +27,7 @@
 <img src="https://komarev.com/ghpvc/?username=Pex666&style=flat-square&color=blue" alt=""/>
 <div id="badges">
   <a href="t.me/pex666">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
 
