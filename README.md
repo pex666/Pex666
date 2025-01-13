@@ -25,6 +25,11 @@
 
 ##
 <img src="https://komarev.com/ghpvc/?username=Pex666&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+  <a href="t.me/pex666">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <!--
 **Pex666/Pex666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
