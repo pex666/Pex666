@@ -1,6 +1,6 @@
 # Павел Фурсов — Data & Product Analyst
 
-**Москва, Россия** • [GitHub](https://github.com/pex666) • [Telegram](https://t.me/pex666)
+**Москва, Россия** • [Telegram](https://t.me/pex666)
 
 ---
 
