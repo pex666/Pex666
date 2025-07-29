@@ -1,6 +1,6 @@
 # Павел Фурсов — Data & Product Analyst
 
-**Москва, Россия** • [Telegram](https://t.me/pex666) • [Gmail](mailto:pav.fursov@gmail.com)
+**Москва, Россия** • [Telegram](https://t.me/pex666) • [Gmail](mailto:pav.fursov@gmail.com) • [HH](https://hh.ru/resume/235136b3ff0c5077d10039ed1f584c72323246)
 
 ---
 
