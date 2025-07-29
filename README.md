@@ -46,6 +46,7 @@
 ## Проекты
 - [Анализ рынка жилой недвижимости Санкт‑Петербурга и Ленинградской области](https://github.com/pex666/portfolio/tree/main/real-estate)
 - [Анализ исторических данных по сделкам M&A в стартап‑сегменте](https://github.com/pex666/portfolio/tree/main/EDA)
+- [Исследование результатов А/В-теста и поиск инсайтов](https://github.com/pex666/portfolio/tree/main/AB-results)
 ---
 
 ## Контакты
