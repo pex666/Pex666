@@ -52,3 +52,4 @@
 
 - Telegram: [@pex666](https://t.me/pex666)  
 - Email: pav.fursov@gmail.com
+- HeadHunter: [Павел Фурсов](https://hh.ru/resume/235136b3ff0c5077d10039ed1f584c72323246)
