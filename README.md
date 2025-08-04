@@ -20,7 +20,7 @@
 - Yandex DataLens  
 
 ### Обработка данных  
-- JSON, REST API, web‑scraping (BeautifulSoup, Selenium)  
+- JSON, API, web‑scraping (BeautifulSoup, Selenium)  
 - Excel: продвинутые формулы, сводные таблицы (Pivot Table)  
 
 ### Аналитика и тестирование
