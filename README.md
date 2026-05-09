@@ -1,4 +1,4 @@
-# Павел Фурсов — Data & Product Analyst
+# Павел Фурсов — Product / Data Analyst
 
 **Москва, Россия** • [Telegram](https://t.me/pex666) • [Gmail](mailto:pav.fursov@gmail.com) • [HH](https://hh.ru/resume/235136b3ff0c5077d10039ed1f584c72323246)
 
@@ -6,51 +6,65 @@
 
 ## О себе
 
-Я — начинающий аналитик данных, умеющий работать с большими и разнородными данными. Решаю прикладные задачи: от загрузки и очистки данных до визуализации и A/B‑тестирования. Работал с реляционными базами, API и веб‑скрейпингом. Постоянно улучшаю навыки в статистике и аналитике.
+Product / Data Analyst, работаю с мобильными приложениями. Строил с нуля внутреннюю систему аналитики: таксономия событий, модель данных в ClickHouse, агрегаты, BI-дашборды, A/B-тестирование.
+
+Работал с мобильной монетизацией (подписки, paywalls, ads), retention, attribution, когортным анализом и автоматизацией рутинных отчётов.
 
 ---
 
-## Навыки и стек технологий
+## Стек
 
-### Языки и библиотеки  
-- Python: pandas, plotly, seaborn, matplotlib, NumPy, statsmodels, scipy (стат.тесты)
-- SQL: PostgreSQL, MySQL  
+### SQL / БД
+- **ClickHouse** — целевая аналитическая БД, слои `fact_` / `dim_` / `agg_`
+- **PostgreSQL** — продуктовая БД, read-only для справки
+- **Apache Superset** — BI и self-service дашборды
 
-### Визуализация и дашборды  
-- Yandex DataLens  
+### Python
+- pandas, numpy, scipy, statsmodels — анализ и статистические тесты
+- matplotlib, plotly, seaborn — визуализация
+- requests, gspread, google-api-python-client — пайплайны и автоматизация
+- Playwright — скрейпинг и парсинг конкурентов
 
-### Обработка данных  
-- JSON, API, web‑scraping (BeautifulSoup, Selenium)  
-- Excel: продвинутые формулы, сводные таблицы (Pivot Table)  
+### Mobile analytics
+- **Amplitude** — event analytics, retention, funnels; Export API, Chart API
+- **AppsFlyer** — attribution, install / cohort APIs
+- **Adapty** — subscription analytics
+- **Sensor Tower** — market intelligence
+- **Firebase** — A/B testing, Remote Config
 
-### Аналитика и тестирование
+### A/B-тестирование
+- Полный цикл: гипотеза → расчёт sample size → тест → статзначимость → вывод
+- t-test / Welch, Mann-Whitney U, z-test, bootstrap, доверительные интервалы
+- Bonferroni correction для множественных сравнений
+- Когортный и сегментный анализ
 
-- Полный цикл A/B‑тестирования: от формулировки гипотез до оценки статистической значимости
-- Работа с ключевыми метриками: Retention, Conversion Rate, ARPU, LTV, DAU/WAU/MAU
-- Когортный анализ и расчёт удержания пользователей
-- Расчёт размера выборки и длительности теста
-- Применение статистических тестов: t‑тест, t‑тест Уэлча, z‑тест, U‑тест Манна–Уитни
-- Оценка доверительных интервалов, bootstrap-оценка, квантильный анализ
-- Сегментация и анализ по подгруппам пользователей
-- Кластеризация пользователей (например, K‑means)
-- Корректировка на множественные сравнения (Bonferroni correction)
-
-
-### Работа с инструментами и средой разработки
-- Git / GitHub: работа с ветками, коммитами, pull-request, разрешение конфликтов
-- Linux (Ubuntu): работа в терминале, базовые команды, настройка среды на VPS
-- Работа в Jupyter Notebook, DBeaver, различные IDE
+### Автоматизация и среда
+- Google Sheets API + Apps Script — task tracker, отчёты, расшаренные данные
+- Git / GitHub, Linux (Ubuntu), VPS, Jupyter, DBeaver
 
 ---
 
-## Проекты
-- [Анализ рынка жилой недвижимости Санкт‑Петербурга и Ленинградской области](https://github.com/pex666/portfolio/tree/main/real-estate)
-- [Анализ исторических данных по сделкам M&A в стартап‑сегменте](https://github.com/pex666/portfolio/tree/main/EDA)
-- [Исследование результатов А/В-теста и поиск инсайтов](https://github.com/pex666/portfolio/tree/main/AB-results)
+## Опыт
+
+- **Event taxonomy** — единая схема событий по 9 экранам мобильного приложения, ~90 событий, передана клиентской Flutter-команде.
+- **Каталог метрик** — 87 чартов из 8 Amplitude-дашбордов разобрал на формулы; 91% воспроизводимо в ClickHouse напрямую.
+- **A/B-testing** — внедрение Firebase A/B как Stage 1, далее интеграция с ClickHouse.
+- **Retention sources of truth** — выровнял расчёты между Amplitude / AppsFlyer / Adapty.
+- **Продуктовая аналитика** — funnels, paywall-конверсии, content engagement, когортный анализ; диагностика падений метрик и расхождений между источниками данных.
+- **Market data automation** — ежемесячный пайплайн Sensor Tower → Google Sheets для конкурентного анализа.
+
+---
+
+## Pet / portfolio
+
+- [Анализ рынка жилой недвижимости Санкт-Петербурга и Ленинградской области](https://github.com/pex666/portfolio/tree/main/real-estate)
+- [Анализ исторических данных по сделкам M&A в стартап-сегменте](https://github.com/pex666/portfolio/tree/main/EDA)
+- [Исследование результатов A/B-теста и поиск инсайтов](https://github.com/pex666/portfolio/tree/main/AB-results)
+
 ---
 
 ## Контакты
 
-- Telegram: [@pex666](https://t.me/pex666)  
+- Telegram: [@pex666](https://t.me/pex666)
 - Email: pav.fursov@gmail.com
 - HeadHunter: [Павел Фурсов](https://hh.ru/resume/235136b3ff0c5077d10039ed1f584c72323246)
