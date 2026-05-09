@@ -46,10 +46,10 @@ Product / Data Analyst, работаю с мобильными приложен�
 
 ## Опыт
 
-- **Event taxonomy** — единая схема событий по 9 экранам мобильного приложения, ~90 событий, передана клиентской Flutter-команде.
-- **Каталог метрик** — 87 чартов из 8 Amplitude-дашбордов разобрал на формулы; 91% воспроизводимо в ClickHouse напрямую.
-- **A/B-testing** — внедрение Firebase A/B как Stage 1, далее интеграция с ClickHouse.
-- **Retention sources of truth** — выровнял расчёты между Amplitude / AppsFlyer / Adapty.
+- **Event taxonomy** — единая схема событий мобильного приложения.
+- **Каталог метрик** — множество чартов и дашбордов в Amplitude, а затем в Apache Superset.
+- **A/B-testing** — внедрение Firebase A/B, интеграция с ClickHouse.
+- **Sources of truth** — выровнял расчёты между Amplitude / AppsFlyer / Adapty.
 - **Продуктовая аналитика** — funnels, paywall-конверсии, content engagement, когортный анализ; диагностика падений метрик и расхождений между источниками данных.
 - **Market data automation** — ежемесячный пайплайн Sensor Tower → Google Sheets для конкурентного анализа.
 
