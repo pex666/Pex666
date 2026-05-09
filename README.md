@@ -16,7 +16,7 @@ Product / Data Analyst, работаю с мобильными приложен�
 
 ### SQL / БД
 - **ClickHouse** — целевая аналитическая БД, слои `fact_` / `dim_` / `agg_`
-- **PostgreSQL** — продуктовая БД, read-only для справки
+- **PostgreSQL** — продуктовая БД
 - **Apache Superset** — BI и self-service дашборды
 
 ### Python
